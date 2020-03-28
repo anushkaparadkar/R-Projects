@@ -1,7 +1,8 @@
 # Multiple Mini Projects in R
 
 The repository currently contains -  
-1.House Rate Prediction
+1.House Rate Prediction  
+2.Customer Segmentation - K means clutering
 
 ## Getting Started
 
